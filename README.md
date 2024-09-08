@@ -6,3 +6,14 @@ If You've never used any of my Mods requiring those Dependecies:
 
 If You have a 'NuraThings' Folder already:
 - Open the Zip and the Folder within and Extract the Folders into BufferValues\NuraThings
+
+
+Credits:
+
+<a href="https://gamebanana.com/members/2823441">SinsOfSeven</a> - UI Draw Shader
+
+<a href="https://gamebanana.com/members/2837527">SpectrumQT</a> - Modified Print Shader
+
+Special Thanks:
+
+<a href="https://gamebanana.com/members/2694449">Zlevir</a> - DDS Files of Numbers
